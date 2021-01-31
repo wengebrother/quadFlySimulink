@@ -1,0 +1,7 @@
+work/
+docs/
+*.asv
+*~
+*.autosave/
+*.slxc/
+*.slx.*/
