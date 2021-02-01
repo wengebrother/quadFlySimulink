@@ -3,7 +3,10 @@ path(path, './work/icon/');
 %模型参数 运行模型初始化文件icon/init.m
 Init;
 
-
+rc.de=0;
+rc.da=0;
+rc.dr=0;
+rc.tht=0;
 %PID参数
 Kp_RP_ANGLE =6.5;
 Kp_RP_AgngleRate = 0.55;
